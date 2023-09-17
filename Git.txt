@@ -7,3 +7,5 @@ Github is website which hosts repo
 
 we can use git clone cmd to clone data from server
 
+
+welcome to git
