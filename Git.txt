@@ -5,7 +5,5 @@ It tracks all changes
 Github is website which hosts repo
 
 
-
-
-timing
+we can use git clone cmd to clone data from server
 
