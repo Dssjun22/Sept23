@@ -1,2 +1,6 @@
 Git is an ope-source, version control system
+
 It tracks all changes
+
+Github is website which hosts repo
+
